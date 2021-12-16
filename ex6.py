@@ -2,7 +2,7 @@
 ¿Qué tres cosas están mal en este código?
 """
 
-#Ejercicios del Capítulo 03
+#Ejercicio 6 del Capítulo 03
 #Bel Santandreu Nadal
 
 x = int(input("Introduce un número:"))
