@@ -1,7 +1,7 @@
 """
 Observa el siguiente código. Adivina lo que crees que producirá y escríbelo. Luego, ejecútalo y compara el resultado con tu suposición.
 """
-#Ejercicio 8 del capítulo 03
+#Ejercicio 9 del capítulo 03
 #Bel Santandreu Nadal
 
 """
