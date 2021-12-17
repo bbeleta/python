@@ -1,7 +1,7 @@
 """
 ¿Qué está mal en este código?
 """
-#Ejercicio 10 del capítulo 03
+#Ejercicio 12 del capítulo 03
 #Bel Santandreu Nadal
 
 print("Bienvenidos a la Ultra Trail!")
