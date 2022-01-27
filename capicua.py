@@ -4,9 +4,20 @@ Nombres capicua
 
 #Bel Santandreu Nadal
 
-print("Introdueix una paraula qualsevol: ")
+
+print ("Digués una paraula:")
 paraula = input()
-if str(paraula) == str(paraula)[::-1] :
-  print("És capicua")
-else: 
-  print("No és capicua")
+
+
+x = len(paraula)-1
+capicua = 1 
+for i in range(len(paraula)):
+  if paraula[i] != paraula[x]:
+    capicua = 0
+  x = x-1
+if capicua == 1:
+  print("Es capicua")
+else:
+  print("No es capicua")
+  
+print(capicua)
